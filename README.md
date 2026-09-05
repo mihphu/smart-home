@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" width="96" alt="Smart Home logo" />
+<img src="docs/icon.png" width="120" alt="Smart Home logo" />
 
 # Smart Home
 
